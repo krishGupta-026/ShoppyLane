@@ -1,4 +1,4 @@
-# Shopline — React + Vite E-Commerce App
+# ShoppyLane — React + Vite E-Commerce App
 
 A simple e-commerce app built with React, Vite, and the [DummyJSON](https://dummyjson.com/) products API.
 
